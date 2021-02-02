@@ -1,3 +1,6 @@
+/**
+ * 粉刷匠歌谱自动播放
+ */
 // 5353|531
 // 
 music.playMelody("G E G E G E C - ", 120)
@@ -15,6 +18,3 @@ music.playMelody("D F E D G - - - ", 120)
 music.playMelody("G E G E G E C - ", 120)
 // 2432|1
 music.playMelody("D F E D C - - - ", 120)
-basic.forever(function () {
-	
-})
